@@ -27,7 +27,7 @@ body {
   margin-right: 0.25rem;
   padding: 0.25rem 0 0.25rem;
   font-weight: 700;
-  color: rgba(128, 0, 128, 0.65);
+  color: #993399;
   background-color: transparent;
   border-bottom: 0.25rem solid transparent;
   border-bottom-color: rgba(128, 0, 128, 0.5);
@@ -42,7 +42,7 @@ body {
   margin-right: 0.25rem;
   padding: 0.25rem 0 0.25rem;
   font-weight: 700;
-  color: #993399;
+  color: rgba(128, 0, 128, 0.65);
   background-color: transparent;
   border-bottom: 0.25rem solid;
 }
